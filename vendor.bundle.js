@@ -99,13 +99,13 @@
 /***/ 0:
 /***/ function(module, exports, __webpack_require__) {
 
-	__webpack_require__(12);
+	__webpack_require__(2);
 	module.exports = __webpack_require__(19);
 
 
 /***/ },
 
-/***/ 12:
+/***/ 2:
 /***/ function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
@@ -9926,6 +9926,15 @@
 
 /***/ },
 
+/***/ 3:
+/***/ function(module, exports) {
+
+	'use strict';
+
+	module.exports = true;
+
+/***/ },
+
 /***/ 19:
 /***/ function(module, exports, __webpack_require__) {
 
@@ -12307,7 +12316,7 @@
 
 	}(jQuery);
 
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(12)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(2)))
 
 /***/ }
 
