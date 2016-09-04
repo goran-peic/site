@@ -8,16 +8,20 @@ require('./example');
 
 
 
-// $(  () => {
-//
-//
-//   <script src="js/queryloader.min.js"></script>
-//   <script src="js/debouncer.js"></script>
-//   <script src="js/wow.min.js"></script>
-//   <script src="js/waypoint.min.js"></script>
-//   <script src="js/backstretch.min.js"></script>
-//
-//   <script src="js/theme.js"></script>
-//
-//
-// });
+$(  () => {
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script src="js/bootstrap.min.js"></script>
+
+<script src="js/queryloader.min.js"></script>
+<script src="js/debouncer.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/waypoint.min.js"></script>
+<script src="js/backstretch.min.js"></script>
+
+<script src="js/theme.js"></script>
+
+
+});
